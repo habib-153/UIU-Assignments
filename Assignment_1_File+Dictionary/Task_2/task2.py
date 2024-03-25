@@ -1,4 +1,3 @@
-
 def getall_query(query, user_data):
     result = []
     query_parts = query.split()
